@@ -1,3 +1,0 @@
-# Python Dependencies
-# Used by GitHub Actions to minify HTML before deployment
-htmlmin==0.1.12
